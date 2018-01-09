@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifast>
+<manifest>
     <remote name="test" fetch="https://github.com/mojies/"/>
     <default revision="master" remote="test"/>
     <project path="testa" name="linklist"> </project>
     <project path="testb" name="ringfifo"> </project>
-</manifast>
+</manifest>
