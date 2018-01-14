@@ -2,6 +2,6 @@
 <manifest>
     <remote name="test" fetch="git://github.com/mojies/"/>
     <default revision="master" remote="test"/>
-    <project path="testa" name="linklist"> </project>
-    <project path="testb" name="audio_resample"> </project>
+    <project path="linklist" name="linklist"> </project>
+    <project path="audio_resample" name="audio_resample"> </project>
 </manifest>
